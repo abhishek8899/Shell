@@ -6,6 +6,8 @@ To run the program: Execute "terminal"
 
 File Descriptons:
 
+'''Basic version. For advanced version please go to repository "Linux-Shell".'''
+
 shell.c: Contains main function,clock function and commands interpret function.
 inp.c: Takes input from the user.
 cdd.c: Change directory.
